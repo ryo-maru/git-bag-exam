@@ -1,0 +1,15 @@
+current directory: /Users/maruyamaryo/workspace/rails_exam01_bugfix/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+/Users/maruyamaryo/.rbenv/versions/2.6.3/bin/ruby -I /Users/maruyamaryo/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210804-33079-tj3tuf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/maruyamaryo/workspace/rails_exam01_bugfix/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/maruyamaryo/workspace/rails_exam01_bugfix/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/maruyamaryo/workspace/rails_exam01_bugfix/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210804-33079-1dchrwd/bootsnap
